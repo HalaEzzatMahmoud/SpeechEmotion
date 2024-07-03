@@ -1,0 +1,9 @@
+/test_env/
+SpeechEmotion/app/kaggle/encoder2.pickle
+SpeechEmotion/app/kaggle/scaler2.pickle
+SpeechEmotion/app/kaggle/best_model1_weights.h5
+SpeechEmotion/app/kaggle/CNN_model.json
+temp.wav
+WOEmotionDB.sql
+/Dataset/
+/UsersRecords/
