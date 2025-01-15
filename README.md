@@ -11,7 +11,7 @@ How to Run the Project:
             cd SpeechEmotion
 
    2- Create a Python 3.7 Virtual Environment:
-             py -3.7 -m venv env  
+             py -3.7 -m venv test_env
         
    3- Activate the Virtual Environment:
             .\test_env\Scripts\Activate.ps1
